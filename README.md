@@ -25,6 +25,7 @@
       - Typescript
       - React
       - Bulma 
+      - Tailwind
       - Haraka
   -  Ex - Lead Software Engineer @ Santader Uk (Contract) - PaymentsHub
       - Spring Boot
