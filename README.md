@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi! 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on...
   -  Senior Full Stack Software Engineer @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
       - GCP
       - GKE
@@ -27,7 +27,8 @@
       - Bulma 
       - Tailwind
       - Haraka
-  -  Ex - Lead Software Engineer @ Santader Uk (Contract) - PaymentsHub
+
+  -  Lead Software Engineer @ Santader Uk (Contract) - PaymentsHub
       - Spring Boot
       - Java 8/11
       - React
@@ -44,11 +45,11 @@
       - Kafka
       - GitLab
    
-- 🌱 I’m allways learning, currently 
-      - Rust
-      - Terraform
-      - Deno
-      - HTM and Preact
+  - 🌱 I’m currently learning... 
+    - Rust
+    - Terraform
+    - Deno
+    - HTM and Preact
 
 - 📫 How to reach me:
   -   @indevricardo on Twitter
