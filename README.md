@@ -16,7 +16,7 @@
       - Material UI
       - Google Chrome Extensions
  
-  -  CEO @ Atomic Leap Ltd <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
+  -  CEO @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
       - Terraform
       - Hcloud - Hetzner Cloud running on 100% Clean Energy 🌱🌱🌱🌱
       - Microservices
