@@ -28,7 +28,7 @@
       - Tailwind
       - Haraka
 
-  -  Lead Software Engineer @ Santader Uk (Contract) - PaymentsHub
+  -  Lead Software Engineer @ Santader UK (Contract) - PaymentsHub
       - Spring Boot
       - Java 8/11
       - React
