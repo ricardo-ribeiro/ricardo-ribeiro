@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...
-  -  Senior Full Stack Software Engineer <a href="https://loyal.ai" target="_blank">LOYAL AI : Research Assistant</a>
+  -  Senior Full Stack Software Engineer @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
       - GCP
       - GKE
       - Kubernetes
