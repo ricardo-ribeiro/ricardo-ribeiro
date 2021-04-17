@@ -19,6 +19,11 @@
   -  CEO @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
       - Terraform
       - Hcloud - Running on 100% Clean Energy 🌱
+      - Kubernetes
+      - Traefik
+      - HCloud LB
+      - HCloud Volumes
+      - AWS S3
       - Microservices
       - Docker
       - NodeJs
