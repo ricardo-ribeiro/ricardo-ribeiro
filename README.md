@@ -51,10 +51,9 @@
       - GitLab
    
   - 🌱 I’m currently learning... 
-    - Rust
+    - Go
     - Terraform
-    - Deno
-    - HTM and Preact
+
 
 - 📫 How to reach me:
   -   @indevricardo on Twitter
