@@ -133,8 +133,8 @@
   
 ### 📫 How to reach me:
   
-  <a href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="#">![Twitter](https://img.shields.io/badge/@indedevricardo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://twitter.com/InDevRicardo">![Twitter](https://img.shields.io/badge/@indedevricardo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   
 <!--
 **ricardo-ribeiro/ricardo-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
