@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ricardoribeiro.uk" target="_blank">Personal Website/ Resume</a> |
-  <a href="https://ricardoribeiro.uk" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/" target="_blank">LinkedIn</a> |
   <a href="https://ricardoribeiro.uk/blog" target="_blank">Tech Blog</a>   |
   <a href="https://atomicleap.com" target="_blank">Services</a>            |
   <a href="https://atomicleap.com" target="_blank">Contracting</a>         |
