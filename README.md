@@ -1,9 +1,8 @@
-### Hi! 👋
+<h2 align="center">
+  Hi! My name is Ricardo Ribeiro
+</h2>
+<p align="center"><img height="250" src="https://ricardoribeiro.uk/assets/mefull.png"/></p>
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardo-ribeiro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on...
@@ -22,6 +21,7 @@
     <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
     <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
     <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
+    <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
     
       - GKE
       - Google Cloud Pub/Sub
@@ -64,11 +64,15 @@
       - RabbitMQ
       - Kafka
    
-  - 🌱 I’m currently learning... 
-    - Go
-    - Terraform
+- 🌱 I’m currently learning... 
+    
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
+<p align="center"> 
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ricardo-ribeiro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</p>
+  
 - 📫 How to reach me:
   
   <a href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
