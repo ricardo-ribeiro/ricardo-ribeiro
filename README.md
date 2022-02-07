@@ -7,19 +7,24 @@
 
 
 - 🔭 I’m currently working on...
-  -  Senior Full Stack Software Engineer @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
-      - GCP
+  -  <b>Senior Full Stack Software Engineer</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
+  
+    <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
+    <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
+    <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
+    <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
+    <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+    <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
+    <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
+    <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+    <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
+    <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
+    <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
+    <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
+    <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
+    
       - GKE
-      - Kubernetes
-      - Docker
-      - Terraform
       - Google Cloud Pub/Sub
-      - Python
-      - NodeJs
-      - Typescript
-      - React
-      - Material UI
-      - Google Chrome Extensions
  
   -  CEO @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
       - Terraform
@@ -39,21 +44,25 @@
       - Haraka
 
   -  Lead Software Engineer @ Santader UK (Contract) - PaymentsHub
-      - Spring Boot
-      - Java 8/11
-      - React
-      - React Native
-      - Material UI
-      - Angular
+  
+    <a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    <a href="#">![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</a>
+    <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+    <a href="#">![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+    <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
+    <a href="#">![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)</a>
+    <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
+    <a href="#">![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)</a>
+    <a href="#">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+    <a href="#"></a>
+      
       - ISO20020
       - Faster Payments
       - Open Banking
       - PCF - Pivotal Cloud Foundry
       - Microservices
       - RabbitMQ
-      - Redis
       - Kafka
-      - GitLab
    
   - 🌱 I’m currently learning... 
     - Go
@@ -61,6 +70,10 @@
 
 
 - 📫 How to reach me:
+  
+  <a href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="#">![Twitter](https://img.shields.io/badge/@indedevricardo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+  
   -   @indevricardo on Twitter
 <!--
 **ricardo-ribeiro/ricardo-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
