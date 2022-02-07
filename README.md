@@ -9,12 +9,16 @@
 </br>
 
 <p align="center">
-  <a href="https://ricardoribeiro.uk" target="_blank">Personal Website</a> |
-  <a href="https://ricardoribeiro.uk/blog" target="_blank">Tech Blog</a>  |
-  <a href="https://atomicleap.com" target="_blank">Services</a>
+  <a href="https://ricardoribeiro.uk" target="_blank">Personal Website/ Resume</a> |
+  <a href="https://ricardoribeiro.uk" target="_blank">LinkedIn</a> |
+  <a href="https://ricardoribeiro.uk/blog" target="_blank">Tech Blog</a>   |
+  <a href="https://atomicleap.com" target="_blank">Services</a>            |
+  <a href="https://atomicleap.com" target="_blank">Contracting</a>         |
+  <a href="https://atomicleap.com" target="_blank">Freelancing</a>         
 </p>
 
-
+</br>
+</br>
 
  ### 🔭 I’m currently working as
   -  <b>Senior Full Stack Software Engineer</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
@@ -38,7 +42,7 @@
     
       - GKE
       - Google Cloud Pub/Sub
- 
+
   -  <b>CEO, Lead Software Engineer</b> @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
 
    <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
@@ -59,7 +63,6 @@
       - React
       - Bulma 
       - Haraka
-
 
  ### 🔭 Previously working as
  
