@@ -20,8 +20,9 @@
 </br>
 </br>
 
- ### 🔭 I’m currently working as
-  -  <b>Senior Full Stack Software Engineer</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
+
+### 🔭 I’m currently working as
+  -  <b>Head of Engineering</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
   
    <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
    <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
@@ -39,10 +40,8 @@
    <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
    <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
    <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-    
-      - GKE
-      - Google Cloud Pub/Sub
-
+   
+   
   -  <b>CEO, Lead Software Engineer</b> @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
 
    <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
@@ -65,6 +64,30 @@
       - Haraka
 
  ### 🔭 Previously working as
+ 
+ 
+  -  <b>Senior Full Stack Software Engineer</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
+  
+   <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
+   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
+   <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
+   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
+   <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+   <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
+   <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
+   <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
+   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
+   <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
+   <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
+   <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
+   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
+   <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+   <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
+    
+      - GKE
+      - Google Cloud Pub/Sub
+
  
   -  <b>Anchor <i>Lead</i> Software Engineer</b> @ Santader UK (Contract) - PaymentsHub
     
