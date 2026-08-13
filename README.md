@@ -1,215 +1,169 @@
-<h2 align="center">
-  Hi! My name is Ricardo Ribeiro
-</h2>
-<p align="center"><img height="250" src="https://ricardoribeiro.uk/assets/mefull.png"/></p>
+<div align="center">
+  <h2>Hi! My name is Ricardo Ribeiro</h2>
+  <p><b>Head of Engineering @ <a href="https://lounges.tv" target="_blank">Lounges.tv</a></b></p>
+  <img height="250" src="https://ricardoribeiro.uk/assets/mefull.png" alt="Ricardo Ribeiro" />
 
+  <p>
+    Head of Engineering with 10+ years designing distributed, high-throughput systems across payments, FinTech, and real-time platforms. Experience leading architecture across engineering teams and building Go, Java, and Python services under demanding reliability and regulatory requirements.
+  </p>
 
-</br>
-</br>
-</br>
+  <p>
+    <a href="https://ricardoribeiro.uk" target="_blank">Personal Website / Resume</a> ·
+    <a href="https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/" target="_blank">LinkedIn</a> ·
+    <a href="https://ricardoribeiro.uk/blog" target="_blank">Tech Blog</a> ·
+    <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
+  </p>
 
-<p align="center">
-  <a href="https://ricardoribeiro.uk" target="_blank">Personal Website/ Resume</a> |
-  <a href="https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/" target="_blank">LinkedIn</a> |
-  <a href="https://ricardoribeiro.uk/blog" target="_blank">Tech Blog</a>   |
-  <a href="https://atomicleap.com" target="_blank">Services</a>            |
-  <a href="https://atomicleap.com" target="_blank">Contracting</a>         |
-  <a href="https://atomicleap.com" target="_blank">Freelancing</a>         
-</p>
-
-</br>
-<a href="https://www.buymeacoffee.com/RicardoRibeiro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</br>
-
+  <a href="https://www.buymeacoffee.com/RicardoRibeiro" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" />
+  </a>
+</div>
 
 ### 🔭 I’m currently working as
-  -  <b>Head of Engineering</b> @ <a href="https://lounges.tv" target="_blank">Lounges.tv</a>
-  
-   <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
-   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
-   <a href="#">![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-   <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
-   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
-   <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-   <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-   <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-   <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
-   <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
-   <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-   <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-  -  <b>Head of Engineering</b> @ <a href="https://tmc2.ai" target="_blank">TMC2</a>
-  
-   <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
-   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
-   <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
-   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
-   <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-   <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-   <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-   <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
-   <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
-   <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-   <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-   
-  -  <b>Head of Engineering</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
-  
-   <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
-   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
-   <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
-   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
-   <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-   <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-   <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-   <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
-   <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
-   <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-   <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-   
-   
-  -  <b>CEO, Lead Software Engineer</b> @ <a href="https://atomicleap.com" target="_blank">Atomic Leap</a>
 
-   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
-   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
-   <a href="#">![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
-   <a href="#">![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   
-      - Hcloud - Running on 100% Clean Energy 🌱
-      - Traefik
-      - HCloud LB
-      - HCloud Volumes
-      - AWS S3
-      - Microservices
-      - Docker
-      - NodeJs
-      - Typescript
-      - React
-      - Bulma 
-      - Haraka
+- **Head of Engineering** @ [Lounges.tv](https://lounges.tv)
 
- ### 🔭 Previously working as
- 
- 
-  -  <b>Senior Full Stack Software Engineer</b> @ <a href="https://loyal.ai" target="_blank">LOYAL AI</a>
-  
-   <a href="#">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
-   <a href="#">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
-   <a href="#">![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
-   <a href="#">![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)</a>
-   <a href="#">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
-   <a href="#">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
-   <a href="#">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-   <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Microsoft Word Ad-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</a>
-   <a href="#">![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
-   <a href="#">![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-   <a href="#">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a>
-    
-      - GKE
-      - Google Cloud Pub/Sub
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+  ![Microsoft Word Add-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+  ![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
- 
-  -  <b>Anchor <i>Lead</i> Software Engineer</b> @ Santader UK (Contract) - PaymentsHub
-    
-   <a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-   <a href="#">![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)</a>
-   <a href="#">![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)</a>
-   <a href="#">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-   <a href="#"></a>
-      
-      - ISO20020
-      - Faster Payments
-      - Open Banking
-      - PCF - Pivotal Cloud Foundry
-      - Microservices
-      - RabbitMQ
-      - Kafka
-  
-  
- -  <b>Senior Software Engineer</b> @ Santader UK (Contract) - PaymentsHub
-  
-   <a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-   <a href="#">![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)</a>
-   <a href="#">![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)</a>
-   <a href="#">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-   <a href="#"></a>
-      
- -  <b>Software Engineer</b> @ VASSIT UK
-  
-   <a href="#">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-   <a href="#">![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</a>
-   <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
-   <a href="#">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)</a>
-   <a href="#">![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)</a>
-   <a href="#">![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)</a>
-   <a href="#">![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)</a>
-   <a href="#">![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)</a>
-   <a href="#">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-   <a href="#"></a>
-   
-### 🌱 I’m currently learning... 
-    
-<a>![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)</a>
+  - Designed idempotent payment processing and automated reconciliation around a PostgreSQL double-entry ledger, with replay-safe event processing while meeting PSD2 and PCI-DSS
+  - Architected low-latency Go/Node.js services and Kubernetes scaling for 100,000+ concurrent sessions, cutting API latency by ~35%
+  - Implemented automated failover across Stripe and Faster Payments, supporting 99.99% availability during peak events
+  - Reduced monthly cloud spend by ~28% through vendor deals and right-scaling compute and storage
+  - Established TDD, contract testing, and CI/CD standards, reducing deployment lead time by 45% across 14+ engineers and QA
 
+- **CEO, Lead Software Engineer** @ [Atomic Leap](https://atomicleap.com)
 
-### Others ... 
-  
-<a href="#">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</a>
-<a href="#">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
-<a href="#">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
-  
-<p align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=ricardo-ribeiro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Wails](https://img.shields.io/badge/Wails-red?style=for-the-badge)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge)
+  ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
+
+  - Independent B2B consultancy alongside permanent roles, advising FinTech clients on cloud migrations, architecture, and monolith-to-microservices (Go / Python)
+  - Shareholder and lead developer consultant at [SUBJCT](https://subjct.ai) (via Atomic Leap), automated content optimization for brand visibility in AI search (GEO + SEO)
+  - SUBJCT platform: Go APIs, Next.js app, GKE, Pub/Sub ETL, Elasticsearch; automated internal linking, schema / knowledge graph, entity tagging, WordPress plugin
+  - LLM pipelines for entity, category, and summary extraction across ingested articles
+  - Shipping [BearAudit](https://bearaudit.com), Go + Wails desktop app (React, shadcn/ui, SQLite) and Next.js site
+  - Technical SEO: site crawls, GSC/GA insights, schema, sitemaps, internal linking, llms.txt, competitor analysis
+  - LLMs and agents (Gemini): AI chat, entity extraction, agentic SEO, prioritized action plans, and AI-powered fix suggestions; data stays local
+  - Hetzner Cloud, running on 100% clean energy 🌱
+  - Traefik, HCloud LB & Volumes
+  - AWS S3
+  - Microservices, Docker, Node.js, TypeScript, React
+  - Bulma, Haraka
+
+### 🔭 Previously working as
+
+- **Head of Engineering** @ [TMC2](https://tmc2.ai)
+
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+  - Established cross-venture technical governance, cloud standards, and budget allocation across 6 FinTech apps, guiding 20+ engineers and QA
+  - Enforced SOC2 / ISO 27001 baselines, API security, and multi-tenant database isolation
+  - Standardized gRPC/REST templates and shared CI/CD, accelerating production release velocity by ~30%
+
+- **Head of Engineering**, previously **Senior Full Stack Software Engineer** @ [LOYAL AI](https://loyal.ai)
+
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+  - Engineered high-throughput content ingestion with Python and vector-linking, expanding indexed content 3x
+  - Designed GCP infrastructure with Terraform, Docker, and multi-tenant PostgreSQL, 99.99% uptime for 50+ enterprise clients
+  - Architected RAG / LLM orchestration via Vertex AI, improving entity extraction ~40% and cutting token costs ~22%
+  - GKE, Google Cloud Pub/Sub, Microsoft Word Add-ins, Google Chrome Extension
+
+- **Senior Software Engineer**, then **Anchor Lead** @ Santander UK (Contract), PaymentsHub
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  - Technical Lead for Payments Hub, guiding 8+ engineers on payment microservices handling £50M+ daily volume under FCA regulation
+  - Redesigned payment event processing around Kafka and Elasticsearch, reducing query latency by ~60%
+  - Delivered Confirmation of Payee, Hospital Payments, and Financial Crime services
+  - Built Cater Allen’s real-time Faster Payments backend (Java 11, Spring Boot, NuoDB, Redis), cutting mainframe MIPS by 25%
+  - ISO 20022, Faster Payments, Open Banking, PCF, RabbitMQ, Kafka
+
+- **Software Engineer** @ VASSIT UK
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  - Architected a CRM backend (Python, MySQL, REST), automating workflows and increasing throughput by ~50%
+
+### 🌱 I’m currently learning...
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Others ...
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎓 Education
+
+- **BSc (Hons) Computer Science & Software Engineering**, First Class (1:1), University of Bedfordshire (2014-2017)
+- Award: Best Academic Contribution 2017 (Real-Time Distributed Systems)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ricardo-ribeiro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
 </p>
-  
+
 ### 📫 How to reach me:
-  
-  <a href="https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://twitter.com/InDevRicardo">![Twitter](https://img.shields.io/badge/@indedevricardo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-  
-<!--
-**ricardo-ribeiro/ricardo-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/)
+[![X](https://img.shields.io/badge/@InDevRicardo-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/InDevRicardo)
