@@ -21,7 +21,7 @@
 
 ### 🔭 I’m currently working as
 
-- **Head of Engineering** @ [Lounges.tv](https://lounges.tv)
+- [Lounges.tv](https://lounges.tv)
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -42,13 +42,7 @@
   ![Microsoft Word Add-Ins](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   ![Google Chrome Extension](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-  - Designed idempotent payment processing and automated reconciliation around a PostgreSQL double-entry ledger, with replay-safe event processing while meeting PSD2 and PCI-DSS
-  - Architected low-latency Go/Node.js services and Kubernetes scaling for 100,000+ concurrent sessions, cutting API latency by ~35%
-  - Implemented automated failover across Stripe and Faster Payments, supporting 99.99% availability during peak events
-  - Reduced monthly cloud spend by ~28% through vendor deals and right-scaling compute and storage
-  - Established TDD, contract testing, and CI/CD standards, reducing deployment lead time by 45% across 14+ engineers and QA
-
-- **CEO, Lead Software Engineer** @ [Atomic Leap](https://atomicleap.com)
+- [Atomic Leap](https://atomicleap.com)
 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -66,22 +60,10 @@
   ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge)
   ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
 
-  - Independent B2B consultancy alongside permanent roles, advising FinTech clients on cloud migrations, architecture, and monolith-to-microservices (Go / Python)
-  - Shareholder and lead developer consultant at [SUBJCT](https://subjct.ai) (via Atomic Leap), automated content optimization for brand visibility in AI search (GEO + SEO)
-  - SUBJCT platform: Go APIs, Next.js app, GKE, Pub/Sub ETL, Elasticsearch; automated internal linking, schema / knowledge graph, entity tagging, WordPress plugin
-  - LLM pipelines for entity, category, and summary extraction across ingested articles
-  - Shipping [BearAudit](https://bearaudit.com), Go + Wails desktop app (React, shadcn/ui, SQLite) and Next.js site
-  - Technical SEO: site crawls, GSC/GA insights, schema, sitemaps, internal linking, llms.txt, competitor analysis
-  - LLMs and agents (Gemini): AI chat, entity extraction, agentic SEO, prioritized action plans, and AI-powered fix suggestions; data stays local
-  - Hetzner Cloud, running on 100% clean energy 🌱
-  - Traefik, HCloud LB & Volumes
-  - AWS S3
-  - Microservices, Docker, Node.js, TypeScript, React
-  - Bulma, Haraka
 
 ### 🔭 Previously working as
 
-- **Head of Engineering** @ [TMC2](https://tmc2.ai)
+- [TMC2](https://tmc2.ai)
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -94,11 +76,9 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  - Established cross-venture technical governance, cloud standards, and budget allocation across 6 FinTech apps, guiding 20+ engineers and QA
-  - Enforced SOC2 / ISO 27001 baselines, API security, and multi-tenant database isolation
-  - Standardized gRPC/REST templates and shared CI/CD, accelerating production release velocity by ~30%
 
-- **Head of Engineering**, previously **Senior Full Stack Software Engineer** @ [LOYAL AI](https://loyal.ai)
+
+- [LOYAL AI](https://loyal.ai)
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -111,12 +91,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-  - Engineered high-throughput content ingestion with Python and vector-linking, expanding indexed content 3x
-  - Designed GCP infrastructure with Terraform, Docker, and multi-tenant PostgreSQL, 99.99% uptime for 50+ enterprise clients
-  - Architected RAG / LLM orchestration via Vertex AI, improving entity extraction ~40% and cutting token costs ~22%
-  - GKE, Google Cloud Pub/Sub, Microsoft Word Add-ins, Google Chrome Extension
 
-- **Senior Software Engineer**, then **Anchor Lead** @ Santander UK (Contract), PaymentsHub
+- Santander UK (Contract), PaymentsHub
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -128,13 +104,7 @@
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-  - Technical Lead for Payments Hub, guiding 8+ engineers on payment microservices handling £50M+ daily volume under FCA regulation
-  - Redesigned payment event processing around Kafka and Elasticsearch, reducing query latency by ~60%
-  - Delivered Confirmation of Payee, Hospital Payments, and Financial Crime services
-  - Built Cater Allen’s real-time Faster Payments backend (Java 11, Spring Boot, NuoDB, Redis), cutting mainframe MIPS by 25%
-  - ISO 20022, Faster Payments, Open Banking, PCF, RabbitMQ, Kafka
-
-- **Software Engineer** @ VASSIT UK
+- VASSIT UK
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -142,7 +112,6 @@
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-  - Architected a CRM backend (Python, MySQL, REST), automating workflows and increasing throughput by ~50%
 
 ### 🌱 I’m currently learning...
 
