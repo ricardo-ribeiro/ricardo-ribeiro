@@ -19,7 +19,7 @@
   </a>
 </div>
 
-### 🔭 I’m currently working as
+### 🔭 I’m currently working with
 
 - [Lounges.tv](https://lounges.tv)
 
@@ -61,7 +61,7 @@
   ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
 
 
-### 🔭 Previously working as
+### 🔭 Previously worked with
 
 - [TMC2](https://tmc2.ai)
 
