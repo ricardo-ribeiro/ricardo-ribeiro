@@ -134,5 +134,5 @@
 
 ### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lu%C3%ADs-ribeiro-62b14551/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-luis-ribeiro/)
 [![X](https://img.shields.io/badge/@InDevRicardo-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/InDevRicardo)
