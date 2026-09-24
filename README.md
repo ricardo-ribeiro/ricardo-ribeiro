@@ -40,7 +40,6 @@ Hands-on Engineering Manager / Head of Engineering — also open to Principal / 
 ### Featured public work
 
 - **[fanout](https://github.com/ricardo-ribeiro/fanout)** — WebSocket fan-out gateway (director → relay → edge over gRPC, mTLS + room JWT)
-- **[ledger](https://github.com/ricardo-ribeiro/ledger)** — Double-entry ledger: idempotent posts, balanced journals, transactional outbox
 - **[atomic-leap-site](https://github.com/Atomic-Leap/atomic-leap-site)** — Atomic Leap studio site
 
 ### Education
