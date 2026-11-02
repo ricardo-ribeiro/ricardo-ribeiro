@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi! My name is Ricardo Ribeiro</h2>
   <p><b>Head of Engineering @ <a href="https://lounges.tv" target="_blank">Lounges.tv</a></b></p>
-  <img height="250" src="https://ricardoribeiro.uk/assets/mefull.png" alt="Ricardo Ribeiro" />
+  <!-- <img height="250" src="https://ricardoribeiro.uk/assets/mefull.png" alt="Ricardo Ribeiro" /> -->
 
   <p>
     Head of Engineering with 10+ years designing distributed, high-throughput systems across payments, FinTech, and real-time platforms. Experience leading architecture across engineering teams and building Go, Java, and Python services under demanding reliability and regulatory requirements.
