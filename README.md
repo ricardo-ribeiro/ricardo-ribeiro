@@ -34,7 +34,7 @@ Hands-on Engineering Manager / Head of Engineering — also open to Principal / 
 ### Previously
 
 - [TMC2](https://tmc2.ai) — Engineering Manager (AI / FinTech venture portfolio)
-- [Loyal AI](https://loyal.ai) — Lead Software Engineer & Platform Architect (enterprise content intelligence)
+- [Loyal AI](https://subjct.ai) — Lead Software Engineer & Platform Architect (enterprise content intelligence)
 - Santander UK (Contract) — PaymentsHub
 - VASSIT UK
 
