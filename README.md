@@ -27,6 +27,7 @@ Hands-on Engineering Manager / Head of Engineering — also open to Principal / 
 
 ### Currently
 
+- **[Venue.fan](https://venue.fan)** — CO-Founder / Head of Engineering: live broadcast, high-concurrency WebSockets, real-time payments, multi-tenancy, FinOps
 - **[Lounges.tv](https://lounges.tv)** — Head of Engineering: live broadcast, high-concurrency WebSockets, real-time payments, FinOps
 - **[Atomic Leap](https://atomicleap.com)** — side project: sovereign venture studio & engineering advisory
 
